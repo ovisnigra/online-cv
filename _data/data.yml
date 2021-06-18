@@ -12,28 +12,23 @@ sidebar:
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: hello@webjeda.com
-    phone: 012 345 6789
-    website: blog.webjeda.com #do not add http://
-    linkedin: alandoe
-    xing: alandoe
-    github: sharu725
+    email: sbourguet@gimail.com
+    phone: 55 1341 2323
+    github: ovisnigra
     telegram: # add your nickname without '@' sign
     gitlab:
     bitbucket:
-    twitter: '@webjeda'
-    stack-overflow: # Number/Username, e.g. 123456/alandoe
+    twitter: '@ovisnigra'
     codewars:
-    goodreads: # Number-Username, e.g. 123456-alandoe
 
     languages:
-      - idiom: English
-        level: Native
+      - idiom: Español
+        level: Materna
 
-      - idiom: French
-        level: Professional
+      - idiom: Inglés
+        level: Profesional
 
-      - idiom: Spanish
+      - idiom: Italiano
         level: Professional
 
     interests:
